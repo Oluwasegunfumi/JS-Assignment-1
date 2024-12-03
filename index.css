@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    font-family: math;
+}
+
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
